@@ -1,0 +1,17 @@
+.background-red{
+    background-color: rgb(242, 10, 10);
+    background-color:aqua(245, 98, 7);
+    height: 100px;
+    width: 300px;
+    font-weight: bold;
+    
+}
+.background-blue{
+   
+    background-color:blue;
+    height: 100px;
+    width: 300px;
+    font-weight: bold;
+    
+}
+
